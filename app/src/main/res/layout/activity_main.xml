@@ -26,7 +26,7 @@
             android:layout_margin="10dp"
             app:srcCompat="@drawable/cartman"
             tools:layout_editor_absoluteX="25dp"
-            tools:layout_editor_absoluteY="41dp" />
+            tools:layout_editor_absoluteY="40dp" />
 
         <ImageView
             android:id="@+id/imageView2"
